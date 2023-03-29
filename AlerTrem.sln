@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlerTrem - sistema", "AlerTrem - sistema\AlerTrem - sistema.csproj", "{E61B073B-0BC8-4D7B-B6AE-7D261AC5E8AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E61B073B-0BC8-4D7B-B6AE-7D261AC5E8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61B073B-0BC8-4D7B-B6AE-7D261AC5E8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61B073B-0BC8-4D7B-B6AE-7D261AC5E8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61B073B-0BC8-4D7B-B6AE-7D261AC5E8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5143FE48-F23D-46ED-BA58-F1E0405A69D3}
+	EndGlobalSection
+EndGlobal
